@@ -74,7 +74,7 @@ st.markdown(f"""
 
 # --- Génération de la plaque ---
 TEMPLATE_PATH = Path("Data/images/plaque_vierge.png")
-FONT_PATH     = Path("Data/fonts/dejaVu-sans-bold.ttf")
+FONT_PATH     = Path("Data/fonts/dejavu-sans-bold.ttf")
 
 #st.write("CWD:", os.getcwd())
 #st.write("Font exists:", FONT_PATH.exists())
